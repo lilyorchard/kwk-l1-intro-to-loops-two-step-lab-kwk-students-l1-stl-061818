@@ -3,4 +3,5 @@ loop do
   puts "left foot back"
   puts "right foot back"
   puts "stop"
+  break
 end
