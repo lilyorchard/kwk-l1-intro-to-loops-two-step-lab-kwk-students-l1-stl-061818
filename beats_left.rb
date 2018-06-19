@@ -12,8 +12,8 @@ def dance
     sleep(0.1)
     puts "and kick"
     sleep(0.1)
-moves_completed = moves_completed - 6
-puts "you've completed #{moves_completed}. Don't listen to what they say. You are a great dancer."
+beats_left_in_song = beats_left_in_song - 6
+puts "you've completed #{beats_left_in_song}. Don't listen to what they say. You are a great dancer."
 end
 end
 dance
