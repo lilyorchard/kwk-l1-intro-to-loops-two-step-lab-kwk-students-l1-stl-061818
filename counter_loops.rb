@@ -14,7 +14,7 @@ def cha_cha_slide
     puts "and kick"
 moves_completed = moves_completed + 1
 
-puts "you've completed #{moves_completed}. Don't listen to what they say, you are a great dancer."
+puts "you've completed #{moves_completed}. Don't listen to what they say. You are a great dancer."
 end
 end
 cha_cha_slide
