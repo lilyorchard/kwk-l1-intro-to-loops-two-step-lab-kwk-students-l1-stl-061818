@@ -14,8 +14,5 @@ def cha_cha_slide
     puts "and kick"
 moves_completed = moves_completed + 1
 end
-
-
-
-
 end
+cha_cha_slide
