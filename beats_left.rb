@@ -17,12 +17,3 @@ puts "you've completed #{beats_left_in_song}. Don't listen to what they say. You
 end
 end
 dance
-    
-    
-  
-  
-end
-
-
-
-end
